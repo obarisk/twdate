@@ -1,0 +1,11 @@
+Package: twdate
+Title: TW Date Utilities
+Version: 0.0.1
+Authors@R: person("Roy", "Zhong", email = "obarisk@gmail.com", role = c("aut", "cre"))
+Description: Untilities for translate date between western encoding and tw encoding
+Depends: R (>= 3.4.0)
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.1.0
